@@ -12,6 +12,7 @@ namespace TestRepo
         {
             
             String name = "Jasper";
+            String secondName = "Peijer";
 
         }
     }
